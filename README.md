@@ -10,4 +10,6 @@ SHA‑256 published with its release before it is activated.
 Prefer a file? Download `firmware.bin` from a release and use **Update from a file** on the same
 Settings page.
 
-This repository holds release binaries only.
+**New unit?** The printable one-page guide: [SchwiftyEx-Get-started-A4.pdf](SchwiftyEx-Get-started-A4.pdf).
+
+This repository holds release binaries and the Get started guide only.
